@@ -1,7 +1,8 @@
 
 do   
 
-local fwd_to = 235442093
+local fwd_to = 235442093,239383884
+⁦⁩
 
 local function callback_message(extra,success,result)
 local receiver = result.to.id
